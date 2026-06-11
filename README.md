@@ -1,2 +1,2 @@
 # Digital-Marketing-ISB-Cham-Project
-Digital Marketing image dumping
+This repository is primarily used for image dumping to host assets on Google AI Studio.
